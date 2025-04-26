@@ -1,6 +1,9 @@
 Eduardo Gomes - rm97919
+
 Enzo Cunha - rm550985
+
 Gustavo Lopes - rm98887
+
 Pedro Salvitti - rm88166 
 
 # MagicBoard
