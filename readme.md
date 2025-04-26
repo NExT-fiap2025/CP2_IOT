@@ -1,3 +1,8 @@
+Eduardo Gomes - rm97919
+Enzo Cunha - rm550985
+Gustavo Lopes - rm98887
+Pedro Salvitti - rm88166 
+
 # MagicBoard
 
 MagicBoard é um programa interativo que utiliza visão computacional para desenhar em tempo real com base nos movimentos da mão capturados pela câmera. Ele permite que o usuário desenhe linhas na tela utilizando gestos específicos com os dedos.
